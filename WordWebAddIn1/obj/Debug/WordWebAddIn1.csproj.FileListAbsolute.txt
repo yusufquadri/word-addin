@@ -1,0 +1,39 @@
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\csc.exe
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\vbc.exe
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Saket\documents\visual studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Saket\Documents\Visual Studio 2015\Projects\WordWebAddIn1\WordWebAddIn1\obj\Debug\WordWebAddIn1.csprojResolveAssemblyReference.cache
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\csc.exe
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\System.Collections.Immutable.dll
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\System.Reflection.Metadata.dll
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\vbc.exe
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe
+H:\Backup\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe.config
+H:\Backup\WordWebAddIn1\WordWebAddIn1\obj\Debug\WordWebAddIn1.csprojResolveAssemblyReference.cache
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\csc.exe
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\vbc.exe
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\obj\Debug\WordWebAddIn1.csprojResolveAssemblyReference.cache

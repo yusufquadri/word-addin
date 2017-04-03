@@ -1,0 +1,14 @@
+﻿.button 
+        {
+            background-color:indigo;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: solid;
+            position: fixed;
+            font-family: Cambria;
+            font-size: 15px;
+            border-radius:16px;
+            border:none;
+            display:inline-block;
+            color:white;
+        }

@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\WordWebAddIn1Manifest.xml
+C:\Users\mohdyusuf\Desktop\proj\WordWebAddIn1\WordWebAddIn1\bin\Debug\WordWebAddIn1.debugapp

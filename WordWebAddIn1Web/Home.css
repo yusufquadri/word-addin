@@ -1,0 +1,99 @@
+﻿/* Page-specific styling */
+
+html 
+{
+    position: relative;
+    min-height: 100%;
+}
+
+body 
+{
+    margin: 0 0 40px; /* bottom = footer height */
+}
+.footer 
+{
+    position: page;
+    left: 50px;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+}
+
+.padding 
+{
+    padding: 15px;
+}
+
+.button 
+        {
+            background-color:indigo;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: solid;
+            position: fixed;
+            font-family: Cambria;
+            font-size: 15px;
+            border-radius:16px;
+            border:none;
+            display:inline-block;
+            color:white;
+        }
+
+        .class1 
+        {
+            color: darkblue;
+            font-family: 'Bodoni MT';
+            font-size: 30px;
+        }
+
+        .button1 
+        {
+            left: 94px;
+            width:100px;
+            height:30px;
+            transition: all .1s linear;
+        }      
+
+        .button1:active
+        {
+            box-shadow: 0 3px 0 #808080;
+            transform: translateY(2px);
+        }
+
+        .button2
+        {
+            left:94px;
+            width:100px;
+            height:30px;
+            transition: all .1s linear;
+        }
+
+        .button2:active
+        {
+            box-shadow: 0 3px 0 #808080;
+            transform: translateY(2px);
+        }
+
+        .textbox1 
+        {
+            position: relative;
+            left: 30px;
+        }
+
+         .textbox2 
+         {
+            position: relative;
+            left: 32px;
+        }
+
+         .label1
+         {
+             position:relative;
+             left:10px;
+         }
+
+         .label2
+         {
+             position:fixed;
+             left:10px;
+         }

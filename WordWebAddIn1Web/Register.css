@@ -1,0 +1,59 @@
+﻿.center
+        {
+            color: darkblue;
+            font-size: 18px;
+        }
+        .textbox3
+        {
+             position: relative;
+             left: 31px;
+        }
+        .textbox4
+        {
+             position: relative;
+             left: 35px;
+        }
+        .textbox5
+        {
+             position: relative;
+             left: 60px;
+        }
+        .button3
+        {
+            background-color: indigo;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: solid;
+            position: fixed;
+            font-family: Cambria;
+            font-size: 15px;
+            border-radius:16px;
+            position:relative;
+            left:100px;
+            border:none;
+            display:inline-block;
+            width:100px;
+            height:30px;
+            color:white;
+        }
+
+         .label3
+         {
+             position:relative;
+             left:10px;
+         }
+     
+          .label4
+         {
+             position:relative;
+             left:10px;
+         }
+     
+           .label5
+         {
+             position:relative;
+             left:10px;
+         }
+     
+
+        
